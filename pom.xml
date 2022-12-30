@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.springframework</groupId>
-    <artifactId>spring5web</artifactId>
+    <artifactId>srping-web-2023</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring5web</name>
     <description>Demo project for Spring Boot</description>
